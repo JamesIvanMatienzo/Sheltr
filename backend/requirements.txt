@@ -1,0 +1,11 @@
+flask
+flask-cors
+geopandas
+numpy
+pandas
+pyproj
+joblib
+networkx
+matplotlib
+scikit-learn
+rasterio
