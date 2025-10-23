@@ -53,3 +53,4 @@ Configure the app to call the backend at `http://localhost:5000` (or your LAN IP
 - For full-quality datasets (large rasters, full geodatabases), keep them outside the repo and point the backend via environment variables or local paths.
 
 
+"# Sheltr" 
